@@ -1,0 +1,16 @@
+# Ignore all dotfiles...
+.*
+# except for .gitignore
+!.gitignore
+
+
+# intelliJ files
+.idea
+*.iml
+*.ipr
+*.iws
+out
+
+
+# Mac OS X shit...
+.DS_Store*
